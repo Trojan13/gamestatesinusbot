@@ -2,7 +2,7 @@
 
 gamestatesinusbot is a node.js script which lets you control your sinusbot instance with the gamestate API of valves games. So you can play music on killsstreaks etc.
 
-##Supported
+## Supported
 
 Currently only Dota2 is supported. I will later add CS:GO to play a sound at round end.
 For the dota gamestate engine see: https://github.com/xzion/dota2-gsi
