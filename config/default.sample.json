@@ -1,0 +1,9 @@
+{
+    "conf": {
+        "ip": "<YOUR SINUSBOT IP 'http://1.1.1.1'>",
+        "uname": "<YOUR SINUSBOT USERNAME>",
+        "pw": "<YOUR SINUSBOT PASSWORD",
+        "id":"<YOUR SINUSBOT ID>",
+        "uid":"<YOUR SINUSBOT INSTANCE ID>"
+    }
+}
